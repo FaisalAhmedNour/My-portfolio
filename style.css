@@ -1,0 +1,37 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.name{
+    color: orange;
+}
+/* .hire-botton{
+    height: 22px;
+    width: 60px;
+    background-color: rgba(194, 88, 18, 0.623);
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-size: 9px;
+} */
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    align-items: center;
+    width: 60%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 5px 25px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 600;
+}
